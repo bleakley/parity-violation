@@ -1,0 +1,14 @@
+From magnet on U+D (largest data set):
+lambda = 2.3 +/- 0.5 x10^-6 sec
+
+From magnet off U+D
+lambda = 2.2 +/- 0.3 x10^-6 sec
+
+mu minus from magnet off U+D
+lambda = 2.4 +/- 1.2 x10^-7 sec
+
+From corrected (U-D)/(U+D):
+omega = 2.9 +/- 0.16 x10^6 rad/sec
+g = 2.05 +/- 0.1
+gamma = 8.2 +/- 0.4 x10^8 1/sec*T
+mystery amplitude B = 0.12 +/- 0.02
